@@ -28,6 +28,6 @@ In this project, when the IR sensor senses a white surface, an Arduino gets 1 ( 
 
 >Jumper cables 
 
-## circuit diagram
+## Circuit diagram
 ![lfr](https://user-images.githubusercontent.com/75481411/168047065-dba31253-60a8-494e-9367-3d1f963b1c37.png)
 
