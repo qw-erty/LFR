@@ -14,10 +14,10 @@ In this project, when the IR sensor senses a white surface, an Arduino gets 1 ( 
 
 ## Components Used
 
->Arduino Uno
->IR sensor
->L293D motor driver
->BO motor
->Wheels
->Lithium-ion battery
->Jumper cables
+>Arduino Uno 
+>IR sensor 
+>L293D motor driver 
+>BO motor 
+>Wheels 
+>Lithium-ion battery 
+>Jumper cables 
